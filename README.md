@@ -1,8 +1,6 @@
 # Binary-Integer-Multiplier
 Trained a recurrent neural network (RNN) to perform multiplication of two integers written in their binary representations.
 
-# README.md
-
 ## Multiplication RNN
 
 This directory contains Python scripts for training a Recurrent Neural Network (RNN) to perform multiplication of binary integers (A * B = C). The RNN is implemented using the TensorFlow library. The main script (`main.py`) loads hyperparameters from a JSON file, generates training and test datasets, and trains the RNN model. Additionally, there is an alternative implementation using PyTorch in the file `main_torch.py`, but it is still under debugging.
